@@ -13,3 +13,7 @@ html {
 .pink {
   color: rgb(255, 192, 203);
 }
+
+body {
+  background-color: yellow;
+}
