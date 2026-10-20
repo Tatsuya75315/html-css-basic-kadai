@@ -67,9 +67,16 @@
     background-color: #e5dcf0;
 }
 
+#bottom-child01 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}   
+
 #bottom-child02 {
     position: absolute;
     left: 200px;
+    top: 100px;
 }
 
 #bottom-child03 {
